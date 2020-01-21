@@ -1,0 +1,4 @@
+title=C-Dogs
+description=C-Dogs port
+exec=/home/retrofw/games/cdogs/cdogs.elf
+clock=600

@@ -1,0 +1,10 @@
+Package: cdogs
+Version: 
+Description: RetroFW port of C-Dogs
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/cdogs
+Depends: retrofw(>=2.0)
+Source: https://github.com/retrofw/cdogs

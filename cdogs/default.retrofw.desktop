@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=C-Dogs
+Comment=C-Dogs game port
+Exec=cdogs.dge
+Icon=cdogs
+Categories=games;
